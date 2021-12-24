@@ -23,4 +23,21 @@
 // else {
 //     alert("You can not participate in this project!")
 // }
- 
+
+
+// var a = English;
+// var b = Russian;
+// if(a < b) {
+//     alert("Welcome to our website!");
+// }
+//  else {
+//      alert(Добро пожаловать на наш сайт!)
+//  }
+
+
+var student = true;
+if (student) { 
+    alert("You can participate in the project");
+}
+else("You can not participate in our project! Good-bye!")
+
