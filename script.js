@@ -35,9 +35,10 @@
 //  }
 
 
-var student = true;
-if (student) { 
-    alert("You can participate in the project");
-}
-else("You can not participate in our project! Good-bye!")
+// 
 
+var a = "yes";
+var b = "no"
+if(a > b) {
+    alert("Students can apply in the field of IT!");
+}
